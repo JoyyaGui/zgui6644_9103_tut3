@@ -5,9 +5,9 @@ This is my first local change to the repo
 
 This is my second commit!!!!
 
-#Heading 1
-##Heading 2
-###Heading 3
+# Heading 1
+## Heading 2
+### Heading 3
 
 **Bold text**
 
